@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-task1/static/css/main.073c9b0a.css",
-    "main.js": "/react-task1/static/js/main.fca1a9d0.js",
-    "static/js/787.16d32176.chunk.js": "/react-task1/static/js/787.16d32176.chunk.js",
-    "index.html": "/react-task1/index.html",
-    "main.073c9b0a.css.map": "/react-task1/static/css/main.073c9b0a.css.map",
-    "main.fca1a9d0.js.map": "/react-task1/static/js/main.fca1a9d0.js.map",
-    "787.16d32176.chunk.js.map": "/react-task1/static/js/787.16d32176.chunk.js.map"
+    "main.css": "/React-Task1/static/css/main.073c9b0a.css",
+    "main.js": "/React-Task1/static/js/main.72d05001.js",
+    "static/js/787.16d32176.chunk.js": "/React-Task1/static/js/787.16d32176.chunk.js",
+    "index.html": "/React-Task1/index.html",
+    "main.073c9b0a.css.map": "/React-Task1/static/css/main.073c9b0a.css.map",
+    "main.72d05001.js.map": "/React-Task1/static/js/main.72d05001.js.map",
+    "787.16d32176.chunk.js.map": "/React-Task1/static/js/787.16d32176.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fca1a9d0.js"
+    "static/js/main.72d05001.js"
   ]
 }
