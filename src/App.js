@@ -1,13 +1,10 @@
-import './App.css';
-import { Paragraph } from './components/Paragraph';
-
+import {palette} from './components/Palette';
 function App() {
   return (
-    <div>
-      <Paragraph />
+    <div className="App">
+      <palette />
     </div>
   );
 }
 
 export default App;
-
